@@ -3,9 +3,11 @@
 
 ## Instructions :
 ```
-//run npm install
+// clone the project and then cd into it
 
-//run 'npm start' to begin the show !
+npm install
+
+npm run start
 
 //visit: http://localhost:6655
 ```
