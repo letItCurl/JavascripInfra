@@ -12,10 +12,6 @@ npm run start
 //visit: http://localhost:6655
 ```
 
-This is a test project to benchmark my skills and knwoledge on webpack, babel, javascript ES6, Node.JS and NPM.
-
-Webpack, is mandatory when it comes to build production level files.
-
 # About
 
 <table style="border: none;">
