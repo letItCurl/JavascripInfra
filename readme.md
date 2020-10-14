@@ -27,7 +27,7 @@ npm run start
         I'm letItCurl, fullstack developer engineer in freelance</br>
         If you have any question you can <a href="https://www.linkedin.com/in/roland-lopez-developer/?locale=en_US">contact me</a> if you wish !</p>
         <p>I'm always ready to help !</p>
-        <a style="color: #f694ff;" href="mailto:rolandlopez.developer@gmail.com?subject=Hey!Areyouavailable?">Email me ;)</a>
+        <a style="color: #f694ff;" href="mailto:rolandlopez.developer@gmail.com?subject=Hey!Areyouavailable?">Email me</a>
     </div>
     </td>
   </tr>
